@@ -53,7 +53,7 @@ Apps ranked by downloads from App Store Search impressions specifically. This sh
 | impressions | Number of times the app appeared in search results. |
 | page views | Number of times users tapped from a search result to the product page. |
 | CTR | Click-through Rate: page views ÷ impressions. Measures how often the app is tapped when shown in search. |
-| downloads | Number of downloads originating from search. |
+| downloads | Total downloads for the app during the reporting period. |
 
 ---
 
@@ -61,7 +61,7 @@ Apps ranked by downloads from App Store Search impressions specifically. This sh
 
 Apps whose key metrics (impressions, page views, or downloads) are growing week-over-week. The delta columns show the absolute change in each metric.
 
-> **"Emerging" definition:** Apps with positive delta values in impressions and downloads, indicating upward momentum. Low-volume apps are excluded.
+> **"Emerging" definition:** Apps whose impressions, page views, or downloads improved compared to the previous period (i.e. at least one of the three deltas is positive), or apps that already have downloads. There is no low-volume filter in this section.
 
 ---
 
